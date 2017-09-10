@@ -1,5 +1,4 @@
-# Bio
-For the past two years i have been studying and running Linux, compiling c++, python, and implementing js into some
-of my projects. 
+# Bio-calculator
 
-There is so much to learn.
+This is a basic cpp calculator I have been trying to troubleshoot but since school started have not had an ample amount of time
+to work on it properly
